@@ -814,7 +814,7 @@ python-versions = "*"
 
 [[package]]
 name = "types-requests"
-version = "2.26.3"
+version = "2.27.2"
 description = "Typing stubs for requests"
 category = "dev"
 optional = false
@@ -1554,8 +1554,8 @@ types-pyyaml = [
     {file = "types_PyYAML-6.0.1-py3-none-any.whl", hash = "sha256:d5b318269652e809b5c30a5fe666c50159ab80bfd41cd6bafe655bf20b29fcba"},
 ]
 types-requests = [
-    {file = "types-requests-2.26.3.tar.gz", hash = "sha256:d63fa617846dcefff5aa2d59e47ab4ffd806e4bb0567115f7adbb5e438302fe4"},
-    {file = "types_requests-2.26.3-py3-none-any.whl", hash = "sha256:ad18284931c5ddbf050ccdd138f200d18fd56f88aa3567019d8da9b2d4fe0344"},
+    {file = "types-requests-2.27.2.tar.gz", hash = "sha256:c902c5433ad103053011c6ac036317ac6f6a8e8a6926fc470a8d2ef791236da7"},
+    {file = "types_requests-2.27.2-py3-none-any.whl", hash = "sha256:6158f8935981fcf65af13ecffd8493f2ffb491b9327d52fe5b8da963dfbaf583"},
 ]
 types-setuptools = [
     {file = "types-setuptools-57.4.5.tar.gz", hash = "sha256:a4600efdca68a33204ad9c083fd9966d63aee61a7d007e912b6afc6ff57d6e02"},
